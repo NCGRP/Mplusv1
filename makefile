@@ -1,4 +1,4 @@
-CXX = g++-4.9
+CXX = g++
 FLAGS = -O2 -Wall
 
 all: m+.o mp.o aStar.o 
